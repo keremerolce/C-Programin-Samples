@@ -1,0 +1,12 @@
+﻿Build started 08.01.2017 13:44:08.
+     1>Project "D:\C Programlama\WhileDöngüsü4\WhileDöngüsü4\WhileDöngüsü4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\WhileDöngüsü4.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "WhileDöngüsü4.cpp"
+         WhileDöngüsü4.cpp
+     1>d:\c programlama\whiledöngüsü4\whiledöngüsü4\whiledöngüsü4.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>Done Building Project "D:\C Programlama\WhileDöngüsü4\WhileDöngüsü4\WhileDöngüsü4.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.24

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "İşaretçilerVeFonksiyonParametreleri1", "İşaretçilerVeFonksiyonParametreleri1\İşaretçilerVeFonksiyonParametreleri1.vcxproj", "{2D5DDF18-6460-4752-9F3C-E5D38FCAFF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5DDF18-6460-4752-9F3C-E5D38FCAFF0B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D5DDF18-6460-4752-9F3C-E5D38FCAFF0B}.Debug|Win32.Build.0 = Debug|Win32
+		{2D5DDF18-6460-4752-9F3C-E5D38FCAFF0B}.Release|Win32.ActiveCfg = Release|Win32
+		{2D5DDF18-6460-4752-9F3C-E5D38FCAFF0B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

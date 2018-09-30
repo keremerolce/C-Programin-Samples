@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KarakterDizileriFonksiyonları3", "KarakterDizileriFonksiyonları3\KarakterDizileriFonksiyonları3.vcxproj", "{70CE346C-4427-4639-BB9D-AD2C0F917978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70CE346C-4427-4639-BB9D-AD2C0F917978}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70CE346C-4427-4639-BB9D-AD2C0F917978}.Debug|Win32.Build.0 = Debug|Win32
+		{70CE346C-4427-4639-BB9D-AD2C0F917978}.Release|Win32.ActiveCfg = Release|Win32
+		{70CE346C-4427-4639-BB9D-AD2C0F917978}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

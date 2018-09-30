@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vektörler3", "Vektörler3\Vektörler3.vcxproj", "{1E33AA6B-7F59-4502-9238-23C137EE6576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E33AA6B-7F59-4502-9238-23C137EE6576}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E33AA6B-7F59-4502-9238-23C137EE6576}.Debug|Win32.Build.0 = Debug|Win32
+		{1E33AA6B-7F59-4502-9238-23C137EE6576}.Release|Win32.ActiveCfg = Release|Win32
+		{1E33AA6B-7F59-4502-9238-23C137EE6576}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CTemelSayfa104", "CTemelSayfa104\CTemelSayfa104.vcxproj", "{44B89BFD-52D1-468D-9281-AE56302F9326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B89BFD-52D1-468D-9281-AE56302F9326}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44B89BFD-52D1-468D-9281-AE56302F9326}.Debug|Win32.Build.0 = Debug|Win32
+		{44B89BFD-52D1-468D-9281-AE56302F9326}.Release|Win32.ActiveCfg = Release|Win32
+		{44B89BFD-52D1-468D-9281-AE56302F9326}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

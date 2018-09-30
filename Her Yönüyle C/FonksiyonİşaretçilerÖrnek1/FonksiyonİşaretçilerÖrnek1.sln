@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FonksiyonİşaretçilerÖrnek1", "FonksiyonİşaretçilerÖrnek1\FonksiyonİşaretçilerÖrnek1.vcxproj", "{98F9C587-0DF4-4C49-BF99-6F8AE8E6896F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F9C587-0DF4-4C49-BF99-6F8AE8E6896F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98F9C587-0DF4-4C49-BF99-6F8AE8E6896F}.Debug|Win32.Build.0 = Debug|Win32
+		{98F9C587-0DF4-4C49-BF99-6F8AE8E6896F}.Release|Win32.ActiveCfg = Release|Win32
+		{98F9C587-0DF4-4C49-BF99-6F8AE8E6896F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
